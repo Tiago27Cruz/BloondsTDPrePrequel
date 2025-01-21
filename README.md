@@ -1,5 +1,9 @@
 ## Bloons Tower Defense: Prequel To The Prequel
 
+Developed for Software Design and Testing Laboratory (LDTS) @ FEUP - L.EIC
+
+Grade: 16.3/20
+
 ![](docs/imageMainMenu.png)
 ![](docs/gamePrint2.png)
 ![](docs/gamePrint1.png)
